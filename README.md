@@ -1,3 +1,3 @@
 # FSEWorkshopAssignment2
-FSE Workshop - Assignment 2 Git basics
-Practive basic git operations
+FSE Workshop - Assignment 2 Git basics.
+Practicve basic git operations.
